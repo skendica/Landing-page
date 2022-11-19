@@ -1,0 +1,6 @@
+.img-group{
+	display:flex;
+     flex: auto;
+     gap:15px;
+}
+
